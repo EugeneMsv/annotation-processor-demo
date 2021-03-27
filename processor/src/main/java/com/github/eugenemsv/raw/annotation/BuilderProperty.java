@@ -1,4 +1,4 @@
-package com.github.eugenemsv.annotation;
+package com.github.eugenemsv.raw.annotation;
 
 import java.lang.annotation.*;
 

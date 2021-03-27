@@ -1,4 +1,4 @@
-package com.github.eugenemsv.domain;
+package com.github.eugenemsv.simple;
 
 public class PersonBuilder {
 

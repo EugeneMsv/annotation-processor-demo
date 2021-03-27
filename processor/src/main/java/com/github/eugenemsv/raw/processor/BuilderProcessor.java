@@ -1,4 +1,4 @@
-package com.github.eugenemsv.processor;
+package com.github.eugenemsv.raw.processor;
 
 import com.google.auto.service.AutoService;
 
@@ -17,7 +17,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 @SupportedAnnotationTypes(
-        "com.github.eugenemsv.annotation.BuilderProperty")
+        "com.github.eugenemsv.raw.annotation.BuilderProperty")
 @SupportedSourceVersion(SourceVersion.RELEASE_11)
 @AutoService(Processor.class)
 public class BuilderProcessor extends AbstractProcessor {

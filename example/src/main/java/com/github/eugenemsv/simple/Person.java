@@ -1,6 +1,6 @@
-package com.github.eugenemsv.domain;
+package com.github.eugenemsv.simple;
 
-import com.github.eugenemsv.annotation.BuilderProperty;
+import com.github.eugenemsv.raw.annotation.BuilderProperty;
 
 public class Person {
 
